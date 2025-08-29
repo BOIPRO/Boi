@@ -1,4 +1,5 @@
 --Phuc dep trai nhat vu tru nay
+--SIUUUUUU
 local leaderstats = {}
 leaderstats.__index = leaderstats
 function leaderstats.new(player)
